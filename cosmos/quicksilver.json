@@ -1,7 +1,7 @@
 {
   "rpc": "https://rpc-quicksilver.keplr.app",
   "rest": "https://lcd-quicksilver.keplr.app",
-  "chainId": "quicksilver-1",
+  "chainId": "quicksilver-2",
   "chainName": "Quicksilver",
   "chainSymbolImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/quicksilver/chain.png",
   "stakeCurrency": {
